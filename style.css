@@ -101,6 +101,7 @@ header ul li:hover {
 }
 .background {
 	background: #F7F7F7;
+	height: 570px;
 }
 .welcome p {
 	line-height: 27px;
